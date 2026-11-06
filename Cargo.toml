@@ -1,7 +1,0 @@
-[package]
-name = "cache-basics"
-version = "0.1.0"
-edition = "2021"
-
-# Внешних библиотек нет: всё из стандартной библиотеки.
-[dependencies]

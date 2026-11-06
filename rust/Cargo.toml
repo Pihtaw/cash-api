@@ -1,0 +1,9 @@
+[package]
+name = "cache-rust"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scc = "3.8"
+mimalloc = "0.1"
+memory-stats = "1.2"
